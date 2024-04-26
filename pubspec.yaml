@@ -32,8 +32,9 @@ dependencies:
     sdk: flutter
   flutter_screenutil: ^5.9.0
   path_provider: ^2.1.1
-  flutter_blue: ^0.8.0
+  flutter_bluetooth_serial: ^0.4.0
   fluttertoast: ^8.2.4
+  sprintf: ^7.0.0
 
 
   # The following adds the Cupertino Icons font to your application.
